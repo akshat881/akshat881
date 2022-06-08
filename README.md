@@ -1,6 +1,4 @@
-Hi 👋 My name is AKSHAT
-=======================
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AKSHAT&fontSize=90)
 ### Skills
 
 <p align="left">
