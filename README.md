@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=580&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps;Clean+Architecture+%7C+BLoC+%7C+Riverpod;4%2B+Years+of+Production+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=640&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps;On-Device+AI+%7C+Mobile+LLM;Gen+AI+%7C+LLaMA+%7C+Gemini+Nano;4%2B+Years+of+Production+Experience" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@
 ```dart
 class AkshatRanjan {
   final String role     = "Senior Flutter Developer";
-  final String location = "Gujarat, India 🇮🇳";
   final int    years    = 4; // years of experience
 
   final List<String> expertise = [
@@ -33,7 +32,6 @@ class AkshatRanjan {
     "Firebase", "REST APIs & GraphQL",
   ];
 
-  final String currentlyAt = "Kickhead Softwares Pvt Ltd";
   final String funFact      = "I treat every widget like a first-class citizen 🧩";
 }
 ```
@@ -69,6 +67,16 @@ class AkshatRanjan {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+#### 🤖 Generative AI & On-Device ML
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini Nano](https://img.shields.io/badge/Gemini_Nano_(On--Device)-34A853?style=for-the-badge&logo=android&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML_(iOS%2FmacOS)-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
 ---
 
 ## 🚀 Key Projects
@@ -91,11 +99,13 @@ class AkshatRanjan {
   </tr>
   <tr>
     <td width="50%">
-      <h3>⛳ Blast Golf App</h3>
-      <p>BLE-based motion tracking application with real-time sensor data processing and performance analytics.</p>
+      <h3>🤖 PocketAI — On-Device LLM App</h3>
+      <p>Cross-platform mobile app running LLaMA 3 & Gemini Nano fully on-device — no internet needed. Supports Android (Gemini Nano via AICore), iOS (Core ML), and macOS with a unified Flutter UI and streamed token output.</p>
       <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter" />
-      <img src="https://img.shields.io/badge/BLE-teal?style=flat-square" />
-      <img src="https://img.shields.io/badge/Real--time-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLaMA_3-1877F2?style=flat-square&logo=meta" />
+      <img src="https://img.shields.io/badge/Gemini_Nano-34A853?style=flat-square&logo=google" />
+      <img src="https://img.shields.io/badge/Core_ML-000?style=flat-square&logo=apple" />
+      <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow" />
     </td>
     <td width="50%">
       <h3>🔐 VidSafe SDK</h3>
@@ -109,35 +119,35 @@ class AkshatRanjan {
 
 ---
 
-## 📊 GitHub Stats
+## 🍥 Ninja Mode: Activated
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat881&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="49%" />
+
+> *"I never go back on my word — that's my nindo, my ninja way!"* — Naruto Uzumaki
+
+<img src="https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif" width="280" title="Naruto Running" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280" title="Naruto Rasengan" />
+
+<br/>
+
+| 💡 Ninja Principle | 💻 Dev Translation |
+|---|---|
+| 🍥 Never give up on your nindo | Ship clean code, always |
+| ⚡ Shadow Clone Jutsu | Parallel async tasks in Flutter |
+| 🎯 Sage Mode focus | Deep work, zero distractions |
+| 🔥 Nine-Tails power | Pushing past performance limits |
+
+<br/>
+
+<img src="https://media.giphy.com/media/pPYeAtBPNVRss/giphy.gif" width="380" title="Naruto Baryon Mode" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat881&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" width="70%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat881&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat881/akshat881/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat881/akshat881/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/akshat881/akshat881/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat881&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true&area_color=302b63" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
